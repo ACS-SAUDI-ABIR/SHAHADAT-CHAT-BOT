@@ -1,7 +1,7 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": "𝐅𝐌𝐙 𝐀𝐁𝐈𝐑 CHAT BOT",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -25,9 +25,9 @@
     "shadat",
     "ullash",
     "cybersahu",
-    "shahadat chat bot"
+    "abir chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "𝐅𝐌𝐙 𝐀𝐁𝐈𝐑",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
