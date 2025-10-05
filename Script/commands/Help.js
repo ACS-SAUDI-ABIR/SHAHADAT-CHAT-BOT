@@ -6,7 +6,7 @@ module.exports.config = {
     name: "help",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "𝐅𝐌𝐙 𝐀𝐁𝐈𝐑",
     description: "Shows all commands with details",
     commandCategory: "system",
     usages: "[command name/page number]",
@@ -32,7 +32,7 @@ module.exports.languages = {
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: %8
 ┃ 🤖 Bot Name: %9
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 👑 Owner: 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
         "user": "User",
@@ -44,10 +44,10 @@ module.exports.languages = {
 // এখানে আপনার ফোটো Imgur লিংক করে বসাবেন✅
 
 const helpImages = [
-    "https://i.imgur.com/sxSn1K3.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/sxSn1K3.jpeg"
+    "",
+    "",
+    "",
+    ""
 ];
 
 function downloadImages(callback) {
