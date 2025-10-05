@@ -19,7 +19,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
   const msg = body.toLowerCase().trim();
 
   const responses = {
-    "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস আবির কে হাঙ্গা করো😶👻😘",
+    "miss you": "আরেক বেডারে Miss না করে xan মেয়ে হলে বস আবির কে হাঙ্গা করো😶👻😘",
     "kiss de": "কিস দিস না তোর মুখে দূর গন্ধ কয়দিন ধরে দাঁত ব্রাশ করিস নাই🤬",
     "👍": "সর এখান থেকে লাইকার আবাল..!🐸🤣👍⛏️",
     "help": "Prefix de sala",
@@ -30,7 +30,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑☜\nFacebook: https://www.facebook.com/jannat.islam.435959\nWhatsApp: +966575620473",
-    "admin": "He is 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦 তাকে সবাই টপ মিউজিক সিঙ্গার আবির  হিসেবে চিনে😘☺️",
+    "admin": "He is 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑 তাকে সবাই টপ মিউজিক সিঙ্গার আবির  হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
     "assalamualaikum": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 💖",
@@ -41,7 +41,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "by": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
     "ami shahadat": "হ্যা বস কেমন আছেন..?☺️",
     "bot er baccha": "আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️",
-    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
+    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐅𝐌𝐙 𝐀𝐁𝐈𝐑 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
     "cudi": "এত চোদা চুদি করস কেনো..!🥱🌝🌚",
     "bal": "রাগ করে না সোনা পাখি 🥰",
