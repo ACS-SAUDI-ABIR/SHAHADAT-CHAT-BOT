@@ -5,7 +5,7 @@ module.exports.config = {
   name: "autoreplybot",
   version: "6.0.2",
   hasPermssion: 0,
-  credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦",
+  credits: "𝐅𝐌𝐙 𝐀𝐁𝐈𝐑",
   description: "Auto-response bot with specified triggers",
   commandCategory: "No Prefix",
   usages: "[any trigger]",
@@ -19,7 +19,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
   const msg = body.toLowerCase().trim();
 
   const responses = {
-    "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস শাহাদাৎ রে হাঙ্গা করো😶👻😘",
+    "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস আবির কে হাঙ্গা করো😶👻😘",
     "kiss de": "কিস দিস না তোর মুখে দূর গন্ধ কয়দিন ধরে দাঁত ব্রাশ করিস নাই🤬",
     "👍": "সর এখান থেকে লাইকার আবাল..!🐸🤣👍⛏️",
     "help": "Prefix de sala",
@@ -29,8 +29,8 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ Shahadat Islam☜\nFacebook: https://www.facebook.com/profile.php?id=100001039692046\nWhatsApp: +8801882333052",
-    "admin": "He is 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦 তাকে সবাই Cyber Bot Team Saport Admin হিসেবে চিনে😘☺️",
+    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑☜\nFacebook: https://www.facebook.com/jannat.islam.435959\nWhatsApp: +966575620473",
+    "admin": "He is 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦 তাকে সবাই টপ মিউজিক সিঙ্গার আবির  হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
     "assalamualaikum": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 💖",
