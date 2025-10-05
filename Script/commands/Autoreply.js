@@ -28,7 +28,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
-    "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    "আবির": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑☜\nFacebook: https://www.facebook.com/jannat.islam.435959\nWhatsApp: +966575620473",
     "admin": "He is 𝐅𝐌𝐙 𝐀𝐁𝐈𝐑 তাকে সবাই টপ মিউজিক সিঙ্গার আবির  হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
