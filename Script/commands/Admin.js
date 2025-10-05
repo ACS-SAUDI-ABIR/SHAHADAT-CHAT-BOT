@@ -7,7 +7,7 @@ module.exports.config = {
  name: "admin",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SUMI ABIR",
+ credits: "𝐅𝐌𝐙 𝐀𝐁𝐈𝐑",
  description: "Show Owner Info",
  commandCategory: "info",
  usages: "admin",
@@ -22,7 +22,7 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│ 👤 𝐍𝐚𝐦𝐞 : ꕥ̳̳̳̳̳̳̳̿̿̿̿̿̿𓉣⃟⃝ 🅵︎🅼︎🆉︎⸙💛𝐀𝐁𝐈𝐑𓉣ꕥ̳̳̳̳̳̳̳̿̿̿̿̿
+│ 👤 𝐍𝐚𝐦𝐞 : ꕥ̳̳̳̳̳̳̳̿̿̿̿̿̿𝐅𝐌𝐙💓𝐀𝐁𝐈𝐑ꕥ̳̳̳̳̳̳̳̿̿̿̿̿
 │ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : 𝐌𝐚𝐥𝐞
 │ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐒𝐢𝐧𝐠𝐥𝐞
 │ 🎂 𝐀𝐠𝐞 : 𝟏𝟖+
