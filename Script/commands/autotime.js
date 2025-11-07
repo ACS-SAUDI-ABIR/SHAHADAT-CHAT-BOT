@@ -6,7 +6,7 @@ module.exports.config = {
     name: 'autosent',
     version: '10.0.1',
     hasPermssion: 0,
-    credits: 'Shahadat Islam',
+    credits: '─꯭─⃝‌‌𝐅𝐌𝐙 𝐀𝐁𝐈𝐑 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭',
     description: 'Automatically sends messages at scheduled times (BD Time)',
     commandCategory: 'group messenger',
     usages: '[]',
